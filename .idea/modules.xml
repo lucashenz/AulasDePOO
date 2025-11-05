@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArquivosGenericos/ArquivosGenericos.iml" filepath="$PROJECT_DIR$/ArquivosGenericos/ArquivosGenericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulasDePOO.iml" filepath="$PROJECT_DIR$/AulasDePOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1_POO_LucasHenz/T1_POO_LucasHenz.iml" filepath="$PROJECT_DIR$/T1_POO_LucasHenz/T1_POO_LucasHenz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generalizacao/generalizacao.iml" filepath="$PROJECT_DIR$/generalizacao/generalizacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
